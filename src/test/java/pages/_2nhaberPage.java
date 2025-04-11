@@ -37,6 +37,9 @@ public class _2nhaberPage {
     @FindBy(xpath = "yunus2")
     public WebElement yunus2;
 
+    @FindBy(xpath = "yunus3")
+    public WebElement yunus3;
+
 
 
 
