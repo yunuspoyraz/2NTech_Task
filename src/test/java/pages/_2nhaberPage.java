@@ -31,6 +31,9 @@ public class _2nhaberPage {
     @FindBy(xpath = "//h1[@class='elementor-heading-title elementor-size-default']")
     public WebElement haberTitle;
 
+    @FindBy(xpath = "yunus")
+    public WebElement yunus;
+
 
 
 
