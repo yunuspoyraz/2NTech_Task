@@ -40,6 +40,10 @@ public class _2nhaberPage {
     @FindBy(xpath = "yunus3")
     public WebElement yunus3;
 
+    @FindBy(xpath = "yunus4")
+    public WebElement yunus4;
+
+
 
 
 
